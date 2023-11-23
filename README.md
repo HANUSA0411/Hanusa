@@ -1,2 +1,0 @@
-# Hanusa
-UTS
